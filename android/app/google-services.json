@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105814786894",
+    "firebase_url": "https://loginexample-ad314.firebaseio.com",
+    "project_id": "loginexample-ad314",
+    "storage_bucket": "loginexample-ad314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105814786894:android:7eac01fd6638efab",
+        "android_client_info": {
+          "package_name": "pratik.ftrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105814786894-nlqh4birikdqd0og3akv4sd7vsj45leu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pratik.ftrial",
+            "certificate_hash": "607c8ae34bcc1a2283ab5e84b420839069867190"
+          }
+        },
+        {
+          "client_id": "105814786894-214i92pnhoifi050r1n455c0c86tiskm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrAORCPQYygVXrgjCrQzCrk8Mx6fcd1Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105814786894-214i92pnhoifi050r1n455c0c86tiskm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
